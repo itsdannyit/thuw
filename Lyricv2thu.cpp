@@ -16,8 +16,8 @@ int main()
 
     system("start run.bat");
 
-    cout <<     "|============================Gthuw============================|" << endl;
-    cout <<     "                        ❤️❤️❤️❤️❤️❤️❤️❤️❤️                       " << endl;
+    cout <<     "|========================================================|" << endl;
+    cout <<     "                                              " << endl;
     Sleep(14000);
 
     displayLine("500 đổi lấy 1 giờ bao nhiêu đổi lấy 1 giờ bên em", 3000);  // 0:14 to 0:17
@@ -47,3 +47,4 @@ int main()
     cout << "\n Cred: Danny " << endl;
     return 0;
 }
+
